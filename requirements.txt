@@ -1,0 +1,7 @@
+boto3
+aws-sam-cli
+streamlit
+streamlit-chat
+streamlit-extras
+requests
+boto3
